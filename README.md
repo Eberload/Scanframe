@@ -11,7 +11,7 @@ edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 The application supports video formats MP4, MKV, AVI, and MOV.
 It works with light/dark themes and supports both Spanish and English interfaces.
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/5f404b7955e61fd6674e4a47bb19ec330014575b/Screenshots/ESFV_I_E.jpg "Install")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
 
 # Installation and Execution
 
@@ -21,7 +21,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - If you use antivirus software, make sure it allows execution (false positives are common for .exe files).
   - The executable is standalone and includes all necessary dependencies.
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_B.jpg "Interface")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.png)
 
 # User Interface 
 
@@ -47,7 +47,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLB.jpg "OCR")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
 
 # OCR Module: Text Extraction
   - Open a video.
@@ -58,7 +58,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - If no text is detected: Error message (“No text detected in the image”).
   - Cancel: “❌ Cancel Extraction” (confirmation dialog).
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_ETC.jpg "Text")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.png)
 
 # Tips
 
