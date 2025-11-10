@@ -13,7 +13,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/5f404b7955e61fd6674e4a47bb19ec330014575b/Screenshots/ESFV_I_E.jpg "Install")
 
-# INSTALLATION AND EXECUTION
+# Installation and Execution
 
   - Download the executable file "Scanframe.exe" from the link provided by the developer.
   - No installation required: simply run the “.exe” file by double-clicking it.
@@ -23,7 +23,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_B.jpg "Interface")
 
-# USER INTERFACE 
+# User Interface 
 
   - The interface is divided into two main panels:
   - Left Panel: Video Player.
@@ -80,7 +80,7 @@ https://ko-fi.com/eberload
 
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
-# Scanframe - Extrae texto de vídeos mediante OCR.
+# Scanframe - Extrae texto de videos mediante OCR.
 
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos
 utilizando OCR (Reconocimiento Óptico de Caracteres).
