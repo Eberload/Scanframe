@@ -1,91 +1,151 @@
+-----------------------------------------ESPAÑOL-----------------------------------------------------
+LICENCIA DE USO:
+
+1. DESCRIPCIÓN
+
+Scanframe es un software de código cerrado distribuido bajo un modelo Donationware.
+Puede utilizarse de forma gratuita para fines personales, educativos o comerciales.
+
+Si encuentras valor en este software, se invita a realizar una donación voluntaria al desarrollador para apoyar su mantenimiento,
+mejora continua y desarrollo de nuevas funciones.
+
+2. DEFINICIONES
+
+A efectos de esta licencia:
+
+Software: Ejecutables, componentes, archivos asociados y documentación de Scanframe 1.0.
+Usuario: Persona física o jurídica que utilice el software.
+Distribución: Copiar y compartir el software en su forma original.
+Uso Comercial: Utilizar el software dentro de actividades profesionales o económicas sin venderlo como producto.
+Donación: Contribución voluntaria sin obligación contractual.
+
+3. PERMISOS
+
+Se concede al Usuario una licencia no exclusiva, mundial e ilimitada para:
+
+Usar el software con cualquier propósito personal, educativo o comercial.
+Copiar y distribuir el software únicamente en su forma original e íntegra.
+Acceder y utilizar el software sin pago, registro ni activación.
+No se otorga acceso al código fuente ni permisos para obtenerlo por ingeniería inversa.
+
+4. RESTRICCIONES
+
+El Usuario acepta las siguientes condiciones:
+
+4.1 Prohibición de venta
+
+No está permitido vender, alquilar, licenciar o comercializar el software como producto independiente o incluirlo como parte de un producto de pago.
+
+4.2 Servicios remunerados
+
+Está permitido prestar servicios o realizar trabajos remunerados en los que el Usuario utilice Scanframe total o parcialmente como herramienta, siempre que la compensación corresponda al servicio prestado y no a la venta del software.
+
+4.3 Modificaciones
+
+No se permite modificar, descompilar, desensamblar o alterar el software.
+No se autoriza distribuir versiones modificadas, derivadas o alteradas.
+
+4.4 Distribución
+
+Al redistribuir el software, debe incluirse esta licencia completa sin alteraciones.
+
+4.5 Uso prohibido
+
+El software no podrá emplearse para actividades ilegales, fraudulentas o que vulneren derechos de terceros.
+
+5. DONACIONES
+
+Las donaciones pueden realizarse en:
+https://ko-fi.com/eberload
+
+Las donaciones no otorgan derechos adicionales ni privilegios especiales sobre el software.
+
+6. EXENCIÓN DE RESPONSABILIDAD
+
+EL SOFTWARE SE PROPORCIONA “TAL CUAL” Y “SEGÚN DISPONIBILIDAD”.
+
+EL DESARROLLADOR NO OTORGA GARANTÍAS DE NINGÚN TIPO, YA SEAN EXPRESAS O IMPLÍCITAS, INCLUYENDO, ENTRE OTRAS, GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR, DISPONIBILIDAD, EXACTITUD O AUSENCIA DE ERRORES.
+EN NINGÚN CASO EL DESARROLLADOR SERÁ RESPONSABLE POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES DERIVADOS DEL USO O IMPOSIBILIDAD DE USO DEL SOFTWARE, AUN CUANDO SE LE HAYA ADVERTIDO SOBRE LA POSIBILIDAD DE TALES DAÑOS.
+EL USUARIO ASUME TODOS LOS RIESGOS ASOCIADOS CON EL USO DEL SOFTWARE, INCLUYENDO PÉRDIDA DE DATOS, INTERRUPCIONES, FALLAS DEL SISTEMA O CUALQUIER OTRO RESULTADO ADVERSO.
+
+7. LEY APLICABLE
+
+Esta licencia se interpretará conforme a los principios generales del derecho contractual internacional.
+En caso de disputa, se aplicará la legislación del país de residencia del desarrollador, salvo que la ley obligatoria del país del Usuario disponga lo contrario.
+Si alguna cláusula se considera inválida o inaplicable en alguna jurisdicción, las restantes continuarán en pleno efecto.      
+                     
 -----------------------------------------ENGLISH-----------------------------------------------------
 
-Version 1.0
-Date: October 2025
-Developer: eberload
+LICENSE OF USE:
 
-                      -DESCRIPTION-  
+1. DESCRIPTION
 
-ESFV is a closed-source software distributed under the Donationware model.
-This means the software is completely free for personal, educational, or commercial use.
-You may use, copy, and distribute it freely at no cost.
-However, if you find value in this tool and wish to support its future development,
-you are strongly encouraged to make a voluntary donation to the developer.
-Your contribution helps maintain and improve ESFV, enabling new features,
-bug fixes, and possible future support.
+Scanframe is closed-source software distributed under a Donationware model.
+It may be used free of charge for personal, educational, or commercial purposes.
 
-                       -PERMISSIONS-  
+If you find value in this software, you are invited to make a voluntary donation to the developer to support maintenance, ongoing improvements, and the development of new features.
 
-Under this license, unlimited permission is granted to:
-Use the software for any purpose, personal, educational, or commercial.
-Copy and distribute copies of the software in its original form.
-No payment or registration is required to access or use ESFV 1.0.
+2. DEFINITIONS
 
-                      -RESTRICTIONS-  
+For the purposes of this license:
 
-Attribution: If you distribute the software, include a copy of this license.
-No commercial sale as a paid product: You may not sell the software as if it were a paid product.
-However, voluntary donations to the original developer @eberload are allowed and encouraged.
-Malicious use: Do not use the software for illegal or harmful activities.
+Software: Executables, components, associated files, and documentation of Scanframe 1.0.
+User: Any natural or legal person who uses the software.
+Distribution: Copying and sharing the software in its original form.
+Commercial Use: Using the software within professional or economic activities without selling it as a product.
+Donation: A voluntary contribution with no contractual obligation.
 
-                       -DONATIONS-  
+3. PERMISSIONS
 
-If you wish to donate to support the development of ESFV:
-Visit the developer’s profile at https://ko-fi.com/eberload
+The User is granted a nonexclusive, worldwide, and unlimited license to:
 
-Any amount is appreciated and helps keep tools like this free and accessible.
-If you have suggestions or bug reports, contact me on GitHub or social media @eberload.
-Thank you for considering a donation! 🖤
+Use the software for any personal, educational, or commercial purpose.
+Copy and distribute the software only in its original and unaltered form.
+Access and use the software without payment, registration, or activation.
+No access to the source code is granted, nor any permission to obtain it through reverse engineering.
 
-                       -DISCLAIMER-  
+4. RESTRICTIONS
 
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED,
-INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
-THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DAMAGE OR LOSS ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE,
-INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
-THE USER ASSUMES ALL RISK ASSOCIATED WITH THE USE OF THE SOFTWARE.
+The User agrees to the following conditions:
 
------------------------------------------ESPAÑOL-----------------------------------------------------
-Versión 1.0
-Fecha: Octubre de 2025
-Desarrollador: eberload
+4.1 Prohibition of sale
 
-                           -DESCRIPCIÓN-
+It is not permitted to sell, rent, license, or commercialize the software as an independent product, nor to include it as part of a paid product.
 
-ESFV es un software de código cerrado distribuido bajo el modelo de Donationware.
-Esto significa que el software es completamente gratuito para su uso personal, educativo o comercial.
-Puedes usarlo, copiarlo y distribuirlo libremente sin costo alguno.
-Sin embargo, si encuentras valor en esta herramienta y deseas apoyar su desarrollo futuro,
-se anima encarecidamente a que realices una donación voluntaria al desarrollador.
-Tu contribución ayuda a mantener y mejorar ESFV, permitiendo nuevas características,
-correcciones de errores y posible soporte a futuro. 
+4.2 Paid services
 
-                            -PERMISOS-
+It is permitted to provide services or carry out paid work in which the User uses Scanframe, in whole or in part, as a tool, provided that the compensation corresponds to the service rendered and not to the sale of the software.
 
-Bajo esta licencia, se concede permiso ilimitado para:
-Usar el software para cualquier propósito, personal, educativo o comercial.
-Copiar y distribuir copias del software en su forma original.
-No se requiere pago ni registro para acceder o usar ESFV 1.0.
+4.3 Modifications
 
-                          -RESTRICCIONES-
+It is not permitted to modify, decompile, disassemble, or alter the software.
+The distribution of modified, derived, or altered versions is not authorized.
 
-Atribución: Si distribuyes el software, incluye la copia de esta licencia.
-No comercializar como producto de pago: No puedes vender el software como si fuera un producto de pago.
-Aunque las donaciones voluntarias al desarrollador original @eberload están permitidas y alentadas.
-Uso malicioso: No uses el software para actividades ilegales o dañinas.
+4.4 Distribution
 
-                           -DONACIONES-
+When redistributing the software, this complete license must be included without alterations.
 
-Si deseas donar para apoyar el desarrollo de ESFV:
-Visita el perfil del desarrollador en https://ko-fi.com/eberload
-Cualquier monto es apreciado y ayuda a que herramientas como esta sigan siendo gratuitas y accesibles.
-Si tienes sugerencias o reportes de errores, contáctame en GitHub o en redes sociales @eberload.
-¡Gracias por considerar una donación!🖤
+4.5 Prohibited use
 
-                     -DESCARGO DE RESPONSABILIDAD-
+The software may not be used for illegal, fraudulent, or rights-infringing activities.
 
-ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO, YA SEA EXPLÍCITAS O IMPLÍCITAS,
-INCLUYENDO, SIN LIMITACIÓN, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR O NO INFRACCIÓN.
-EL DESARROLLADOR NO SE RESPONSABILIZA DE NINGÚN DAÑO O PÉRDIDA DERIVADA DEL USO O INCAPACIDAD DE USAR EL SOFTWARE,
-INCLUYENDO, PERO NO LIMITADO A, DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES.
-EL USUARIO ASUME TODO EL RIESGO ASOCIADO CON EL USO DEL SOFTWARE.
+5. DONATIONS
+
+Donations can be made at:
+https://ko-fi.com/eberload
+
+Donations do not grant additional rights or special privileges over the software.
+
+6. DISCLAIMER OF LIABILITY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+
+THE DEVELOPER MAKES NO WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, ACCURACY, OR FREEDOM FROM ERRORS.
+IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE USE OF THE SOFTWARE, INCLUDING LOSS OF DATA, INTERRUPTIONS, SYSTEM FAILURES, OR ANY OTHER ADVERSE RESULT.
+
+7. APPLICABLE LAW
+
+This license shall be interpreted in accordance with the general principles of international contract law.
+In the event of a dispute, the legislation of the developer’s country of residence shall apply, unless mandatory law in the User’s country provides otherwise.
+If any clause is deemed invalid or unenforceable in any jurisdiction, the remaining provisions shall remain in full force and effect.
