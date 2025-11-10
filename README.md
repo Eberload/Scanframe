@@ -142,7 +142,7 @@ La interfaz se divide en dos paneles principales:
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
 
-     # Consejos
+  # Consejos
 
 1. Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 2. El punto de inicio se configura automáticamente,
