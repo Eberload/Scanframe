@@ -13,7 +13,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/5f404b7955e61fd6674e4a47bb19ec330014575b/Screenshots/ESFV_I_E.jpg "Install")
 
-    -INSTALLATION AND EXECUTION-  
+# INSTALLATION AND EXECUTION
 
   - Download the executable file "Scanframe.exe" from the link provided by the developer.
   - No installation required: simply run the “.exe” file by double-clicking it.
@@ -38,7 +38,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLY.jpg "Player")
 
-        -VIDEO PLAYER CONTROLS-  
+# VIDEO PLAYER CONTROLS
 
   - 📁 Open Video: Select a video file (MP4, MKV, AVI, MOV).
   - ▶️ / ⏸️ Play/Pause: Starts or stops playback.
@@ -49,7 +49,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLB.jpg "OCR")
 
-OCR MODULE: TEXT EXTRACTION
+# OCR MODULE: TEXT EXTRACTION
   - Open a video.
   - Play and pause (Space) on the desired frame.
   - Click "🔍 Extract Text".
@@ -60,12 +60,12 @@ OCR MODULE: TEXT EXTRACTION
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_ETC.jpg "Text")
 
-        -TIPS-  
+# TIPS
 
 1. Pause on clear frames with visible text to improve OCR accuracy, and manually edit if needed.
 2. The start time is set automatically, but the end time must be set manually — let the video play forward and click “Set End”.
 
-       -KEYBOARD SHORTCUTS-  
+# KEYBOARD SHORTCUTS
                     
 - Space: Play/Pause.
 - Left Arrow: Rewind 2s.
@@ -90,7 +90,7 @@ editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
 La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
 Funciona en temas claro/oscuro, interfaz en español/inglés.
 
-    -INSTALACIÓN Y EJECUCIÓN-
+# INSTALACIÓN Y EJECUCIÓN
 
   - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
   - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
@@ -98,7 +98,7 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
   - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
   - El ejecutable es standalone, incluye todas las dependencias necesarias.
 
-    -INTERFAZ DE USUARIO-
+# INTERFAZ DE USUARIO
 
 La interfaz se divide en dos paneles principales:
 
@@ -112,7 +112,7 @@ La interfaz se divide en dos paneles principales:
   - Lista de bloques de texto extraídos (editable).
   - Botones de exportación. 
 
-        -CONTROLES DEL REPRODUCTOR DE VIDEO-
+    # CONTROLES DEL REPRODUCTOR DE VIDEO
 
    - 📁 Abrir Video: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
    - ▶️ / ⏸️ Reproducir/Pausar: Inicia o detiene la reproducción.
@@ -121,7 +121,7 @@ La interfaz se divide en dos paneles principales:
    - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
    - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-MÓDULO OCR: EXTRACCIÓN DE TEXTO
+# MÓDULO OCR: EXTRACCIÓN DE TEXTO
    - Abre un video.
    - Reproduce y pausa (Espacio) en el frame deseado. 
    - Haz clic en "🔍 Extraer Texto".
@@ -130,13 +130,13 @@ MÓDULO OCR: EXTRACCIÓN DE TEXTO
    - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
    - Cancelar: "❌ Cancelar Extracción" (confirma con diálogo).
 
-                            -CONSEJOS-
+     # CONSEJOS
 
 1. Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 2. El punto de inicio se configura automáticamente,
 pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
 
-                        -ATAJOS DE TECLADO-
+   # ATAJOS DE TECLADO
 
    - Espacio: Reproducir/Pausar.
    - Flecha Izquierda: Retroceder 2s.
