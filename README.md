@@ -1,4 +1,4 @@
-# Scanframe
+# Scanframe - Extract text from videos using OCR
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
@@ -81,6 +81,7 @@ https://ko-fi.com/eberload
 
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
+# Scanframe - Extrae texto de vídeos mediante OCR.
 
 ESFV es una aplicación de escritorio diseñada para extraer texto de videos
 utilizando OCR (Reconocimiento Óptico de Caracteres).
