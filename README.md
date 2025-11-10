@@ -36,7 +36,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - List of extracted text blocks (editable).
   - Export buttons.
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLY.jpg "Player")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
 
 # Video Player Controls
 
@@ -47,7 +47,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.png)
 
 # OCR Module: Text Extraction
   - Open a video.
@@ -58,7 +58,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - If no text is detected: Error message (“No text detected in the image”).
   - Cancel: “❌ Cancel Extraction” (confirmation dialog).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
 
 # Tips
 
@@ -82,6 +82,8 @@ https://ko-fi.com/eberload
 -------------------------------------------------------------------------------------------
 # Scanframe - Extrae texto de videos mediante OCR.
 
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.png)
+
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos
 utilizando OCR (Reconocimiento Óptico de Caracteres).
 Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video,
@@ -90,6 +92,8 @@ editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
 La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
 Funciona en temas claro/oscuro, interfaz en español/inglés.
 
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
+
 # Instalación y Ejecución
 
   - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
@@ -97,6 +101,8 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
   - La ventana se abrirá centrada en pantalla (mínimo 1200x700 píxeles).
   - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
   - El ejecutable es standalone, incluye todas las dependencias necesarias.
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.png)
 
 # Interfaz de Usuario
 
@@ -110,7 +116,9 @@ La interfaz se divide en dos paneles principales:
   - Botón de reconocimiento y cancelación.
   - Barra de progreso para OCR/exportación.
   - Lista de bloques de texto extraídos (editable).
-  - Botones de exportación. 
+  - Botones de exportación.
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
 
     # Controles del Reproductor de Video
 
@@ -121,6 +129,8 @@ La interfaz se divide en dos paneles principales:
    - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
    - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
+
 # Módulo OCR: Extracción de Texto
    - Abre un video.
    - Reproduce y pausa (Espacio) en el frame deseado. 
@@ -129,6 +139,8 @@ La interfaz se divide en dos paneles principales:
    - Resultado: Si se detecta texto, se crea un "Bloque de Texto" en la lista derecha. Muestra mensaje de éxito.
    - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
    - Cancelar: "❌ Cancelar Extracción" (confirma con diálogo).
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
 
      # Consejos
 
