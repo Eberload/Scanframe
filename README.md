@@ -2,9 +2,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/main/Screenshots/ESFV_1.0.0.png "ESFV 1.0.0")
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/ESFV_1.0.0.png "ESFV 1.0.0")
 
-ESFV is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
+Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
 edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 
@@ -15,16 +15,15 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
     -INSTALLATION AND EXECUTION-  
 
-  - Download the executable file "ESFV.exe" from the link provided by the developer.
+  - Download the executable file "Scanframe.exe" from the link provided by the developer.
   - No installation required: simply run the “.exe” file by double-clicking it.
   - The window will open centered on the screen (minimum 1200x700 pixels).
   - If you use antivirus software, make sure it allows execution (false positives are common for .exe files).
-  - Note: On the first run, EasyOCR will download language models (Spanish/English).
   - The executable is standalone and includes all necessary dependencies.
 
 ![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_B.jpg "Interface")
 
-        -USER INTERFACE-  
+#USER INTERFACE 
 
   - The interface is divided into two main panels:
   - Left Panel: Video Player.
@@ -76,14 +75,14 @@ OCR MODULE: TEXT EXTRACTION
 - F: Fullscreen.
 - F: Exit fullscreen.
 
-Thank you for using ESFV! If you like it, please consider donating 🖤.
+Thank you for using Scanframe! If you like it, please consider donating 🖤.
 https://ko-fi.com/eberload
 
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 # Scanframe - Extrae texto de vídeos mediante OCR.
 
-ESFV es una aplicación de escritorio diseñada para extraer texto de videos
+Scanframe es una aplicación de escritorio diseñada para extraer texto de videos
 utilizando OCR (Reconocimiento Óptico de Caracteres).
 Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video,
 editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
@@ -93,13 +92,11 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
 
     -INSTALACIÓN Y EJECUCIÓN-
 
-  - Descarga el archivo ejecutable "ESFV.exe" desde el enlace proporcionado por el desarrollador.
+  - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
   - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
   - La ventana se abrirá centrada en pantalla (mínimo 1200x700 píxeles).
   - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
-
-Nota: En la primera ejecución, EasyOCR descargará modelos de idioma (español/inglés).
-El ejecutable es standalone, incluye todas las dependencias necesarias.
+  - El ejecutable es standalone, incluye todas las dependencias necesarias.
 
     -INTERFAZ DE USUARIO-
 
@@ -149,5 +146,5 @@ pero el final se establece manualmente, deja avanzar el video y haz clic en "est
    - F: Pantalla completa.
    - F: Salir de fullscreen.
 
-¡Gracias por usar ESFV! Si te gusta, considera donar🖤.
+¡Gracias por usar Scanframe! Si te gusta, considera donar🖤.
  https://ko-fi.com/eberload
