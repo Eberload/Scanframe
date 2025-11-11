@@ -13,7 +13,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
 
-# Installation and Execution
+# Execution
 
   - Download the executable file "Scanframe.exe" from the link provided by the developer.
   - No installation required: simply run the “.exe” file by double-clicking it.
@@ -94,7 +94,7 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
 
-# Instalación y Ejecución
+# Ejecución
 
   - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
   - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
@@ -104,7 +104,7 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.png)
 
-# Interfaz de Usuario
+# Interfaz de usuario
 
 La interfaz se divide en dos paneles principales:
 
@@ -131,7 +131,7 @@ La interfaz se divide en dos paneles principales:
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
 
-# Módulo OCR: Extracción de Texto
+# Módulo OCR: Extracción de texto
    - Abre un video.
    - Reproduce y pausa (Espacio) en el frame deseado. 
    - Haz clic en "🔍 Extraer Texto".
@@ -148,7 +148,7 @@ La interfaz se divide en dos paneles principales:
 2. El punto de inicio se configura automáticamente,
 pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
 
-   # Atajos de Teclado
+   # Atajos de teclado
 
    - Espacio: Reproducir/Pausar.
    - Flecha Izquierda: Retroceder 2s.
