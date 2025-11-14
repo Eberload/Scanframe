@@ -5,7 +5,6 @@
 1. DESCRIPTION
 
 Scanframe is closed-source software distributed under a Donationware model.
-It may be used free of charge for personal, educational, or commercial purposes.
 If you find value in this software, you are invited to make a voluntary donation to the developer.
 
 2. DEFINITIONS
@@ -179,3 +178,4 @@ Esta licencia se interpretará y aplicará conforme a las leyes del país de res
 Si alguna cláusula se considera inválida o inaplicable, las demás disposiciones permanecerán en pleno efecto.   
 
 El uso, ejecución o distribución del Software implica la aceptación plena de los términos de esta licencia por parte del Usuario.  
+
