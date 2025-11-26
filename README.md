@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.0.1.png)
 
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
