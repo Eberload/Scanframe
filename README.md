@@ -78,8 +78,8 @@ It works with light/dark themes and supports both Spanish and English interfaces
 Thank you for using Scanframe! If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
 
--------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.png)
+
 # Scanframe - Extrae texto de videos mediante OCR.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.0.1.png)
