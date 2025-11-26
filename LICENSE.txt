@@ -1,94 +1,3 @@
- -----------------------------------------ENGLISH-----------------------------------------------------
-
-                                      LICENSE OF USE
-
-1. DESCRIPTION
-
-Scanframe is closed-source software distributed under a Donationware model.
-If you find value in this software, you are invited to make a voluntary donation to the developer.
-
-2. DEFINITIONS
-
-For the purposes of this license:
-
-Software: Executables, components, associated files, and documentation of Scanframe.
-
-User: Any natural or legal person who uses the software.
-
-Distribution: Copying and sharing the software only in its original and unaltered form.
-
-Personal Use: Use of the Software by an individual for private, domestic, or recreational purposes, unrelated to professional, labor, institutional, formal educational, or commercial activities.
-Personal use does not generate income nor form part of any service, product, project, or economic activity that is directly or indirectly compensated.
-
-Educational Use: Use of the Software in teaching, learning, training, academic research, or formative development activities.
-Includes use by students, teachers, researchers, educational institutions, independent instructors, and nonprofit entities.
-
-Commercial Use: Use of the Software in professional, labor, business, institutional, or economic activities.
-
-Donation: A voluntary contribution without contractual obligation.
-
-3. PERMISSIONS
-
-The User is granted a non-exclusive, worldwide license without limitations other than those established in this license to:
-
-Use the software for personal, educational, or commercial purposes.
-
-Access and use the software without payment, registration, or activation.
-
-Provide services or carry out compensated activities in which the User employs the Software, in whole or in part, as a tool,
-as long as the compensation arises exclusively from the service or work performed, and not from the sale, rental, or commercialization of the Software.
-
-4. RESTRICTIONS
-
-The User agrees to the following conditions:
-
-4.1 PROHIBITION OF SALE
-
-It is not permitted to sell, rent, license, or commercialize the software as a standalone product nor include it as part of paid software.
-
-4.2 MODIFICATIONS
-
-It is not permitted to modify, decompile, disassemble, or alter the software.
-
-Distributing modified, derived, or altered versions is not authorized.
-
-4.3 DISTRIBUTION
-
-It is not permitted to upload, host, or make the Software available in public or private repositories,
-download platforms, software catalogs, or similar services that generate income directly or indirectly.
-
-4.4 ATTRIBUTION
-
-When the software is used in Educational or Commercial activities, the User must provide a mention or attribution to the Software,
-indicating the name “Scanframe,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
-This attribution does not imply sponsorship, endorsement, or association between the User and the developer.
-
-4.5 PROHIBITED USE
-
-The software may not be used for illegal, fraudulent, or rights-violating activities.
-
-5. DONATIONS
-
-Donations may be made at:
-https://ko-fi.com/eberload
-
-Donations do not grant additional rights or special privileges over the software,
-nor do they guarantee the continuity of development.
-
-6. DISCLAIMER OF LIABILITY
-
-THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
-THE DEVELOPER MAKES NO WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, ACCURACY, OR ERROR-FREE OPERATION.
-IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE USE OF THE SOFTWARE, INCLUDING LOSS OF DATA, INTERRUPTIONS, SYSTEM FAILURES, OR ANY OTHER ADVERSE RESULT.
-
-7. APPLICABLE LAW
-
-This license shall be interpreted and applied in accordance with the laws of the developer’s country of residence, without prejudice to mandatory rules applicable in the User’s jurisdiction.
-If any clause is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
-
-The use, execution, or distribution of the Software implies the User’s full acceptance of the terms of this license.
-
 -----------------------------------------ESPAÑOL-----------------------------------------------------
 
                                      LICENCIA DE USO
@@ -178,4 +87,95 @@ Esta licencia se interpretará y aplicará conforme a las leyes del país de res
 Si alguna cláusula se considera inválida o inaplicable, las demás disposiciones permanecerán en pleno efecto.   
 
 El uso, ejecución o distribución del Software implica la aceptación plena de los términos de esta licencia por parte del Usuario.  
+                     
+-----------------------------------------ENGLISH-----------------------------------------------------
+
+                                      LICENSE OF USE
+
+1. DESCRIPTION
+
+Scanframe is closed-source software distributed under a Donationware model.
+If you find value in this software, you are invited to make a voluntary donation to the developer.
+
+2. DEFINITIONS
+
+For the purposes of this license:
+
+Software: Executables, components, associated files, and documentation of Scanframe.
+
+User: Any natural or legal person who uses the software.
+
+Distribution: Copying and sharing the software only in its original and unaltered form.
+
+Personal Use: Use of the Software by an individual for private, domestic, or recreational purposes, unrelated to professional, labor, institutional, formal educational, or commercial activities.
+Personal use does not generate income nor form part of any service, product, project, or economic activity that is directly or indirectly compensated.
+
+Educational Use: Use of the Software in teaching, learning, training, academic research, or formative development activities.
+Includes use by students, teachers, researchers, educational institutions, independent instructors, and nonprofit entities.
+
+Commercial Use: Use of the Software in professional, labor, business, institutional, or economic activities.
+
+Donation: A voluntary contribution without contractual obligation.
+
+3. PERMISSIONS
+
+The User is granted a non-exclusive, worldwide license without limitations other than those established in this license to:
+
+Use the software for personal, educational, or commercial purposes.
+
+Access and use the software without payment, registration, or activation.
+
+Provide services or carry out compensated activities in which the User employs the Software, in whole or in part, as a tool,
+as long as the compensation arises exclusively from the service or work performed, and not from the sale, rental, or commercialization of the Software.
+
+4. RESTRICTIONS
+
+The User agrees to the following conditions:
+
+4.1 PROHIBITION OF SALE
+
+It is not permitted to sell, rent, license, or commercialize the software as a standalone product nor include it as part of paid software.
+
+4.2 MODIFICATIONS
+
+It is not permitted to modify, decompile, disassemble, or alter the software.
+
+Distributing modified, derived, or altered versions is not authorized.
+
+4.3 DISTRIBUTION
+
+It is not permitted to upload, host, or make the Software available in public or private repositories,
+download platforms, software catalogs, or similar services that generate income directly or indirectly.
+
+4.4 ATTRIBUTION
+
+When the software is used in Educational or Commercial activities, the User must provide a mention or attribution to the Software,
+indicating the name “Scanframe,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
+This attribution does not imply sponsorship, endorsement, or association between the User and the developer.
+
+4.5 PROHIBITED USE
+
+The software may not be used for illegal, fraudulent, or rights-violating activities.
+
+5. DONATIONS
+
+Donations may be made at:
+https://ko-fi.com/eberload
+
+Donations do not grant additional rights or special privileges over the software,
+nor do they guarantee the continuity of development.
+
+6. DISCLAIMER OF LIABILITY
+
+THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE.”
+THE DEVELOPER MAKES NO WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, ACCURACY, OR ERROR-FREE OPERATION.
+IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE USER ASSUMES ALL RISKS ASSOCIATED WITH THE USE OF THE SOFTWARE, INCLUDING LOSS OF DATA, INTERRUPTIONS, SYSTEM FAILURES, OR ANY OTHER ADVERSE RESULT.
+
+7. APPLICABLE LAW
+
+This license shall be interpreted and applied in accordance with the laws of the developer’s country of residence, without prejudice to mandatory rules applicable in the User’s jurisdiction.
+If any clause is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+The use, execution, or distribution of the Software implies the User’s full acceptance of the terms of this license.
 
