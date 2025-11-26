@@ -11,7 +11,7 @@ edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 The application supports video formats MP4, MKV, AVI, and MOV.
 It works with light/dark themes and supports both Spanish and English interfaces.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.0.1.png)
 
 # Execution
 
@@ -47,7 +47,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.0.1.png)
 
 # OCR Module: Text Extraction
   - Open a video.
@@ -92,7 +92,7 @@ editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
 La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
 Funciona en temas claro/oscuro, interfaz en español/inglés.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.0.1.png)
 
 # Ejecución
 
@@ -129,7 +129,7 @@ La interfaz se divide en dos paneles principales:
    - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
    - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.0.1.png)
 
 # Módulo OCR: Extracción de texto
    - Abre un video.
