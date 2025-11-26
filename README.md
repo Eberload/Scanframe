@@ -75,7 +75,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
 - F: Fullscreen.
 - F: Exit fullscreen.
 
-Thank you for using Scanframe! If you like it, please consider donating 🖤.
+Thank you for using Scanframe! If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
 
 -------------------------------------------------------------------------------------------
@@ -158,5 +158,5 @@ pero el final se establece manualmente, deja avanzar el video y haz clic en "est
    - F: Pantalla completa.
    - F: Salir de fullscreen.
 
-¡Gracias por usar Scanframe! Si te gusta, considera donar🖤.
+¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
  https://ko-fi.com/eberload
