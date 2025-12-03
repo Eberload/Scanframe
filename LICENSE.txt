@@ -34,8 +34,7 @@ Usar el software con propósito personal, educativo o comercial.
 
 Acceder y utilizar el software sin pago, registro ni activación.
 
-Prestar servicios o realizar actividades remuneradas en las que el Usuario emplee el Software parcial o totalmente como herramienta,
-siempre que la remuneración se derive exclusivamente del servicio o trabajo realizado, y no de la venta, alquiler o comercialización del Software.
+Prestar servicios o realizar actividades remuneradas en las que el Usuario emplee el Software parcial o totalmente como herramienta, siempre que la remuneración se derive exclusivamente del servicio o trabajo realizado, y no de la venta, alquiler o comercialización del Software.
 
 4. RESTRICCIONES
 
@@ -58,8 +57,7 @@ plataformas de descarga, catálogos de software o servicios similares, que gener
 
 4.4 ACREDITACIÓN
 
-Cuando el software sea utilizado en actividades Educativas o Comerciales, el Usuario deberá otorgar una mención o acreditación al Software,
-indicando el nombre “Scanframe”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
+Cuando el software sea utilizado en actividades Educativas o Comerciales, el Usuario deberá otorgar una mención o acreditación al Software, indicando el nombre “Scanframe”, en la forma y lugar que considere pertinente, siempre que ello sea razonable dentro del contexto de uso.
 Esta acreditación no implica patrocinio, respaldo ni asociación entre el Usuario y el desarrollador.
 
 4.5 USO PROHIBIDO
@@ -125,8 +123,7 @@ Use the software for personal, educational, or commercial purposes.
 
 Access and use the software without payment, registration, or activation.
 
-Provide services or carry out compensated activities in which the User employs the Software, in whole or in part, as a tool,
-as long as the compensation arises exclusively from the service or work performed, and not from the sale, rental, or commercialization of the Software.
+Provide services or carry out compensated activities in which the User employs the Software, in whole or in part, as a tool, as long as the compensation arises exclusively from the service or work performed, and not from the sale, rental, or commercialization of the Software.
 
 4. RESTRICTIONS
 
@@ -149,8 +146,7 @@ download platforms, software catalogs, or similar services that generate income 
 
 4.4 ATTRIBUTION
 
-When the software is used in Educational or Commercial activities, the User must provide a mention or attribution to the Software,
-indicating the name “Scanframe,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
+When the software is used in Educational or Commercial activities, the User must provide a mention or attribution to the Software, indicating the name “Scanframe,” in the form and location the User deems appropriate, provided that it is reasonable within the context of use.
 This attribution does not imply sponsorship, endorsement, or association between the User and the developer.
 
 4.5 PROHIBITED USE
@@ -178,4 +174,5 @@ This license shall be interpreted and applied in accordance with the laws of the
 If any clause is deemed invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
 The use, execution, or distribution of the Software implies the User’s full acceptance of the terms of this license.
+
 
