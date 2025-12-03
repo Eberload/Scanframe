@@ -47,7 +47,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.0.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
 
 # OCR Module: Text Extraction
   - Open a video.
