@@ -57,7 +57,7 @@ Scanframe project file:
 - File → Open Project (Ctrl+O)
 - Format: .sfpf file
 
-IMPORTANT
+# IMPORTANT
 - Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
 - The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
@@ -81,23 +81,15 @@ https://ko-fi.com/eberload
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.1.png)
 
-Scanframe es una aplicación de escritorio diseñada para extraer texto de videos
-utilizando OCR (Reconocimiento Óptico de Caracteres).
-Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video,
-editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
-
-La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
-Funciona en temas claro/oscuro, interfaz en español/inglés.
+Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando OCR (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz en español/inglés.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 # Ejecución
-
-  - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
-  - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
-  - La ventana se abrirá centrada en pantalla (mínimo 1200x700 píxeles).
-  - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
-  - El ejecutable es standalone, incluye todas las dependencias necesarias.
+- Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
+- No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
+- Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
+- El ejecutable incluye todas las dependencias necesarias.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.png)
 
@@ -105,55 +97,57 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
 
 La interfaz se divide en dos paneles principales:
 
-  - Panel Izquierdo: Reproductor de video.
-  - Área de video (fondo negro con bordes redondeados).
-  - Controles inferiores: Barra de progreso, botones de navegación, volumen y pantalla completa.
-  - Panel Derecho: Módulo OCR y edición.
-  - Selectores de tema e idioma. Temas: Oscuro o Claro. Idiomas: Español o Inglés. 
-  - Botón de reconocimiento y cancelación.
-  - Barra de progreso para OCR/exportación.
-  - Lista de bloques de texto extraídos (editable).
-  - Botones de exportación.
+Panel izquierdo: Reproductor de video.
+- Área de video.
+- Controles inferiores: Barra de progreso, botones de avance, volumen y pantalla completa.
+    
+Panel derecho: Módulo OCR y edición.
+- Botones de reconocimiento OCR y cancelar.
+- Barra de progreso para OCR/exportación.
+- Lista de bloques de texto extraídos.
+- Botones de exportación. 
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
 
-    # Controles del Reproductor de Video
-
-   - 📁 Abrir Video: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
-   - ▶️ / ⏸️ Reproducir/Pausar: Inicia o detiene la reproducción.
-   - ⏪ Retroceder: Salta 2 segundos hacia atrás (una vez por clic).
-   - ⏩ Avance Rápido: Acelera a 5x mientras se mantiene presionado.
-   - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
-   - ⛶ Pantalla Completa: Alterna modo fullscreen.
+# Controles del reproductor de video
+- 📁 Abrir: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
+- Reproducir/Pausar: Inicia o detiene la reproducción.
+- ⏪ Retroceder: Salta 2 segundos hacia atrás (un clic).
+- ⏩ Avance Rápido: Acelera a 5x mientras se mantiene presionado.
+- 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
+- ⛶ Pantalla Completa: Alterna modo fullscreen.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
 
 # Módulo OCR: Extracción de texto
-   - Abre un video.
-   - Reproduce y pausa (Espacio) en el frame deseado. 
-   - Haz clic en "🔍 Extraer Texto".
-   - La app captura el frame actual lo procesa con OCR.
-   - Resultado: Si se detecta texto, se crea un "Bloque de Texto" en la lista derecha. Muestra mensaje de éxito.
-   - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
-   - Cancelar: "❌ Cancelar Extracción" (confirma con diálogo).
+- Reproduce y pausa (Espacio) en el frame deseado. 
+- Haz clic en "🔍 Extraer Texto".
+- El programa captura el frame actual lo procesa con OCR.
+- Si se detecta texto, se crea un "Bloque de Texto" en la lista derecha.
+- Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
+- Cancelar: "❌ Cancelar Extracción" (se confirma con diálogo).
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
 
-  # Consejos
-
-1. Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
-2. El punto de inicio se configura automáticamente,
-pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
-
+Archivo de proyecto Scanframe:
+ - Archivo → Guardar proyecto (Ctrl+S)
+ - Archivo → Abrir proyecto (Ctrl+O)
+ - Formato: Archivo .sfpf
+    
+   # IMPORTANTE
+- Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
+- El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
+    
    # Atajos de teclado
-
-   - Espacio: Reproducir/Pausar.
-   - Flecha Izquierda: Retroceder 2s.
-   - Flecha Derecha: Avance rápido 5x (mantén presionada).
-   - Flecha Arriba/Abajo: +10% / -10% volumen.
-   - M: Silenciar/Activar sonido.
-   - F: Pantalla completa.
-   - F: Salir de fullscreen.
+  - Espacio ⏯️ Reproducir/Pausar video.
+  - Flecha Izquierda ⏪ Retroceder 2 segundos.
+  - Flecha Derecha (mantener) ⏩ Avance rápido 5.0x.
+  - Ctrl + O 🔍 Extraer texto del frame actual.
+  - Ctrl + S 💾 Guardar proyecto actual.
+  - Ctrl + D 💰 Abrir enlace de donación.
+  - Flecha Arriba/Abajo 🔊 Subir/Bajar volumen.
+  - F ⛶ Activar/desactivar pantalla completa.
+  - M 🔇 Silenciar/Activar sonido.
 
 ¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
  https://ko-fi.com/eberload
