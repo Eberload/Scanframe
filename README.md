@@ -61,7 +61,7 @@ IMPORTANT
 - Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
 - The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
-# Keyboard Shortcuts
+# Shortcuts
 - Space ⏯️ Play/Pause video.
 - Left Arrow ⏪ Rewind 2 seconds.
 - Right Arrow (hold) ⏩ Fast forward 5.0x.
