@@ -4,76 +4,73 @@
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.1.png)
 
-Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
-It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
-edit them, and export them in .TXT or .SRT (standard subtitle) formats.
-
-The application supports video formats MP4, MKV, AVI, and MOV.
-It works with light/dark themes and supports both Spanish and English interfaces.
+Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows you to play videos, pause at specific frames, extract subtitles or any text in the video, edit them, and export them in .TXT or .SRT (standard subtitles) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. It works with light/dark themes and a Spanish/English interface.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 # Execution
-
-  - Download the executable file "Scanframe.exe" from the link provided by the developer.
-  - No installation required: simply run the “.exe” file by double-clicking it.
-  - The window will open centered on the screen (minimum 1200x700 pixels).
-  - If you use antivirus software, make sure it allows execution (false positives are common for .exe files).
-  - The executable is standalone and includes all necessary dependencies.
+- Download the executable file “Scanframe.exe” from the link provided by the developer.
+- No installation required: simply run the “.exe” file by double-clicking.
+- If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
+- The executable includes all necessary dependencies.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.png)
 
 # User Interface 
 
-  - The interface is divided into two main panels:
-  - Left Panel: Video Player.
-  - Video area (black background with rounded corners).
-  - Bottom controls: progress bar, navigation buttons, volume, and fullscreen.
-  - Right Panel: OCR and Editing Module.
-  - Theme and language selectors. Themes: Dark or Light. Languages: Spanish or English.
-  - Recognition and cancel buttons.
-  - Progress bar for OCR/export.
-  - List of extracted text blocks (editable).
-  - Export buttons.
+The interface is divided into two main panels:
+
+Left panel: Video player.
+- Video area.
+- Bottom controls: Progress bar, forward buttons, volume, and full screen.
+    
+Right panel: OCR and editing module.
+- OCR recognition and cancel buttons.
+- Progress bar for OCR/export.
+- List of extracted text blocks.
+- Export buttons. 
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
 
 # Video Player Controls
-
-  - 📁 Open Video: Select a video file (MP4, MKV, AVI, MOV).
-  - ▶️ / ⏸️ Play/Pause: Starts or stops playback.
-  - ⏪ Rewind: Jumps back 2 seconds (once per click).
-  - ⏩ Fast Forward: Speeds up to 5x while pressed.
-  - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
-  - ⛶ Fullscreen: Toggles fullscreen mode.
-
+- 📁 Open: Select a video file (MP4, MKV, AVI, MOV).
+- Play/Pause: Start or stop playback.
+- ⏪ Rewind: Skip back 2 seconds (one click).
+- ⏩ Fast Forward: Accelerates to 5x speed while holding pressed.
+- 🔊 Volume: Toggles mute (M). Slider adjusts level (0-100%).
+- ⛶ Full Screen: Toggles fullscreen mode.
+    
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
 
 # OCR Module: Text Extraction
-  - Open a video.
-  - Play and pause (Space) on the desired frame.
-  - Click "🔍 Extract Text".
-  - The app captures the current frame and processes it with OCR.
-  - Result: If text is detected, a “Text Block” is created in the right panel list. A success message appears.
-  - If no text is detected: Error message (“No text detected in the image”).
-  - Cancel: “❌ Cancel Extraction” (confirmation dialog).
+- Play and pause (Space) at the selected frame.
+- Click on “🔍 Extract Text.”
+- The software captures the current frame and processes it with OCR.
+- If text is detected, a “Text Block” is created in the right-hand list.
+- If there is no text: Error message (“No text detected in the image”).
+- Cancel: “❌ Cancel Extraction” (confirmed with dialog).
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
 
-# Tips
+Scanframe project file:
+- File → Save Project (Ctrl+S)
+- File → Open Project (Ctrl+O)
+- Format: .sfpf file
 
-1. Pause on clear frames with visible text to improve OCR accuracy, and manually edit if needed.
-2. The start time is set automatically, but the end time must be set manually — let the video play forward and click “Set End”.
+IMPORTANT
+- Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
+- The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
 # Keyboard Shortcuts
-                    
-- Space: Play/Pause.
-- Left Arrow: Rewind 2s.
-- Right Arrow: Fast forward 5x (hold).
-- Up/Down Arrows: +10% / -10% volume.
-- M: Mute/Unmute.
-- F: Fullscreen.
-- F: Exit fullscreen.
+- Space ⏯️ Play/Pause video.
+- Left Arrow ⏪ Rewind 2 seconds.
+- Right Arrow (hold) ⏩ Fast forward 5.0x.
+- Ctrl + O 🔍 Extract text from current frame.
+- Ctrl + S 💾 Save current project.
+- Ctrl + D 💰 Open donation link.
+- Up/Down Arrow 🔊 Increase/decrease volume.
+- F ⛶ Enable/disable full screen.
+- M 🔇 Mute/unmute sound.
 
 Thank you for using Scanframe! If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
