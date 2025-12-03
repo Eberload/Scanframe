@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.0.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.1.png)
 
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
@@ -58,7 +58,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - If no text is detected: Error message (“No text detected in the image”).
   - Cancel: “❌ Cancel Extraction” (confirmation dialog).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
 
 # Tips
 
@@ -78,11 +78,11 @@ It works with light/dark themes and supports both Spanish and English interfaces
 Thank you for using Scanframe! If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.1.png)
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.0.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.1.png)
 
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos
 utilizando OCR (Reconocimiento Óptico de Caracteres).
@@ -92,7 +92,7 @@ editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
 La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
 Funciona en temas claro/oscuro, interfaz en español/inglés.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.0.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 # Ejecución
 
@@ -129,7 +129,7 @@ La interfaz se divide en dos paneles principales:
    - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
    - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.0.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
 
 # Módulo OCR: Extracción de texto
    - Abre un video.
@@ -140,7 +140,7 @@ La interfaz se divide en dos paneles principales:
    - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
    - Cancelar: "❌ Cancelar Extracción" (confirma con diálogo).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
 
   # Consejos
 
