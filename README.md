@@ -65,9 +65,11 @@ Scanframe project file:
 - Space ⏯️ Play/Pause video.
 - Left Arrow ⏪ Rewind 2 seconds.
 - Right Arrow (hold) ⏩ Fast forward 5.0x.
-- Ctrl + O 🔍 Extract text from current frame.
+- Ctrl + O 📁 Open current project.
 - Ctrl + S 💾 Save current project.
+- Ctrl + V 🎬 Open a video.
 - Ctrl + D 💰 Open donation link.
+- Ctrl + Q 🚪 Close the application.
 - Up/Down Arrow 🔊 Increase/decrease volume.
 - F ⛶ Enable/disable full screen.
 - M 🔇 Mute/unmute sound.
@@ -139,15 +141,17 @@ Archivo de proyecto Scanframe:
 - El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
     
    # Atajos de teclado
-  - Espacio ⏯️ Reproducir/Pausar video.
-  - Flecha Izquierda ⏪ Retroceder 2 segundos.
-  - Flecha Derecha (mantener) ⏩ Avance rápido 5.0x.
-  - Ctrl + O 🔍 Extraer texto del frame actual.
-  - Ctrl + S 💾 Guardar proyecto actual.
-  - Ctrl + D 💰 Abrir enlace de donación.
-  - Flecha Arriba/Abajo 🔊 Subir/Bajar volumen.
-  - F ⛶ Activar/desactivar pantalla completa.
-  - M 🔇 Silenciar/Activar sonido.
+- Espacio ⏯️ Reproducir/Pausar video.
+- Flecha Izquierda ⏪ Retroceder 2 segundos.
+- Flecha Derecha (mantener) ⏩ Avance rápido 5.0x.
+- Ctrl + O 📁 Abrir proyecto actual.
+- Ctrl + S 💾 Guardar proyecto actual.
+- Ctrl + V 🎬 Abrir un video.
+- Ctrl + D 💰 Abrir enlace de donación.
+- Ctrl + Q 🚪 Cerrar la aplicación.
+- Flecha Arriba/Abajo 🔊 Subir/Bajar volumen.
+- F ⛶ Activar/desactivar pantalla completa.
+- M 🔇 Silenciar/Activar sonido.
 
 ¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
  https://ko-fi.com/eberload
