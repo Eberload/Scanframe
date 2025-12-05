@@ -1,4 +1,4 @@
-                                    -PYTHON-
+-----------------------------------PYTHON-----------------------------------
 
 PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 
@@ -84,7 +84,7 @@ BEOPEN PYTHON OPEN SOURCE LICENSE AGREEMENT VERSION 1
 7. By copying, installing or otherwise using the software, Licensee agrees to be
    bound by the terms and conditions of this License Agreement.
 
-                                    -PYSIDE6-
+-----------------------------------PYSIDE6-----------------------------------
 
 GNU LESSER GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
@@ -143,7 +143,7 @@ Each version is given a distinguishing version number. If the Library as you rec
 
 If the Library as you received it specifies that a proxy can decide whether future versions of the GNU Lesser General Public License shall apply, that proxy's public statement of acceptance of any version is permanent authorization for you to choose that version for the Library.
 
-                                    -EASYOCR-
+-----------------------------------EASYOCR-----------------------------------
 
    Apache License
                            Version 2.0, January 2004
@@ -347,7 +347,7 @@ If the Library as you received it specifies that a proxy can decide whether futu
    See the License for the specific language governing permissions and
    limitations under the License.
 
-                                    -OPENCV-
+-----------------------------------OPENCV-----------------------------------
 
   Apache License
                            Version 2.0, January 2004
@@ -550,6 +550,5 @@ If the Library as you received it specifies that a proxy can decide whether futu
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
-
 
 
