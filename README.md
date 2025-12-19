@@ -68,6 +68,8 @@ https://ko-fi.com/eberload
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
+
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.1.png)
 
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando OCR (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz en español/inglés.
