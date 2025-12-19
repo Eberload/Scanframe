@@ -61,19 +61,6 @@ Scanframe project file:
 - Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
 - The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
-# Shortcuts
-- Space ⏯️ Play/Pause video.
-- Left Arrow ⏪ Rewind 2 seconds.
-- Right Arrow (hold) ⏩ Fast forward 5.0x.
-- Ctrl + O 📁 Open current project.
-- Ctrl + S 💾 Save current project.
-- Ctrl + V 🎬 Open a video.
-- Ctrl + D 💰 Open donation link.
-- Ctrl + Q 🚪 Close the application.
-- Up/Down Arrow 🔊 Increase/decrease volume.
-- F ⛶ Enable/disable full screen.
-- M 🔇 Mute/unmute sound.
-
 Thank you for using Scanframe! If you find it useful, consider donating.💰
 https://ko-fi.com/eberload
 
@@ -140,18 +127,5 @@ Archivo de proyecto Scanframe:
 - Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 - El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
     
-   # Atajos de teclado
-- Espacio ⏯️ Reproducir/Pausar video.
-- Flecha Izquierda ⏪ Retroceder 2 segundos.
-- Flecha Derecha (mantener) ⏩ Avance rápido 5.0x.
-- Ctrl + O 📁 Abrir proyecto actual.
-- Ctrl + S 💾 Guardar proyecto actual.
-- Ctrl + V 🎬 Abrir un video.
-- Ctrl + D 💰 Abrir enlace de donación.
-- Ctrl + Q 🚪 Cerrar la aplicación.
-- Flecha Arriba/Abajo 🔊 Subir/Bajar volumen.
-- F ⛶ Activar/desactivar pantalla completa.
-- M 🔇 Silenciar/Activar sonido.
-
 ¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
  https://ko-fi.com/eberload
