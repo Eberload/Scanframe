@@ -87,8 +87,6 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
-
 # Interfaz de usuario
 
 La interfaz se divide en dos paneles principales:
@@ -96,6 +94,8 @@ La interfaz se divide en dos paneles principales:
 Panel izquierdo: Reproductor de video.
 - Área de video.
 - Controles inferiores: Barra de progreso, botones de avance, volumen y pantalla completa.
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
     
 Panel derecho: Módulo OCR y edición.
 - Botones de reconocimiento OCR y cancelar.
@@ -103,7 +103,7 @@ Panel derecho: Módulo OCR y edición.
 - Lista de bloques de texto extraídos.
 - Botones de exportación. 
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
 
 # Controles del reproductor de video
 - 📁 Abrir: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
@@ -113,7 +113,7 @@ Panel derecho: Módulo OCR y edición.
 - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
 - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
 
 # Módulo OCR: Extracción de texto
 - Reproduce y pausa (Espacio) en el frame deseado. 
@@ -123,7 +123,7 @@ Panel derecho: Módulo OCR y edición.
 - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
 - Cancelar: "❌ Cancelar Extracción" (se confirma con diálogo).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.2.2.png)
 
 Archivo de proyecto Scanframe:
  - Archivo → Guardar proyecto (Ctrl+S)
