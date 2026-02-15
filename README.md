@@ -16,8 +16,6 @@ Scanframe is a desktop application designed to extract text from videos using OC
 - 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
-
 # User Interface 
 
 The interface is divided into two main panels:
@@ -25,14 +23,16 @@ The interface is divided into two main panels:
 Left panel: Video player.
 - Video area.
 - Bottom controls: Progress bar, forward buttons, volume, and full screen.
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
     
 Right panel: OCR and editing module.
 - OCR recognition and cancel buttons.
 - Progress bar for OCR/export.
 - List of extracted text blocks.
-- Export buttons. 
+- Export buttons.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
 
 # Video Player Controls
 - 📁 Open: Select a video file (MP4, MKV, AVI, MOV).
@@ -42,7 +42,7 @@ Right panel: OCR and editing module.
 - 🔊 Volume: Toggles mute (M). Slider adjusts level (0-100%).
 - ⛶ Full Screen: Toggles fullscreen mode.
     
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
 
 # OCR Module: Text Extraction
 - Play and pause (Space) at the selected frame.
@@ -52,7 +52,7 @@ Right panel: OCR and editing module.
 - If there is no text: Error message (“No text detected in the image”).
 - Cancel: “❌ Cancel Extraction” (confirmed with dialog).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.2.2.png)
 
 Scanframe project file:
 - File → Save Project (Ctrl+S)
