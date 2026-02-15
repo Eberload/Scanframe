@@ -8,13 +8,13 @@ Scanframe is a desktop application designed to extract text from videos using OC
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
-
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking.
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable includes all necessary dependencies.
+- 
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
 
@@ -78,13 +78,13 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
-
 # Ejecución
 - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
 - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
 - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
 
