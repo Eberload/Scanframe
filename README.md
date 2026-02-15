@@ -24,7 +24,7 @@ Left panel: Video player.
 - Video area.
 - Bottom controls: Progress bar, forward buttons, volume, and full screen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
     
 Right panel: OCR and editing module.
 - OCR recognition and cancel buttons.
@@ -41,8 +41,9 @@ Right panel: OCR and editing module.
 - ⏩ Fast Forward: Accelerates to 5x speed while holding pressed.
 - 🔊 Volume: Toggles mute (M). Slider adjusts level (0-100%).
 - ⛶ Full Screen: Toggles fullscreen mode.
-    
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
+
 
 # OCR Module: Text Extraction
 - Play and pause (Space) at the selected frame.
