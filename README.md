@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots1.1.2.2.e.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.2.2.e.png)
 
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows you to play videos, pause at specific frames, extract subtitles or any text in the video, edit them, and export them in .TXT or .SRT (standard subtitles) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. Works with light/dark themes and interface in 20 languages: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
 
