@@ -137,4 +137,5 @@ Archivo de proyecto Scanframe:
 ¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
  https://ko-fi.com/eberload
 
- INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
+ - INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
+  - Application compatible with: Windows x64; Linux x64
