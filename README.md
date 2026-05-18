@@ -1,19 +1,23 @@
 # Scanframe - Extract text from videos using OCR
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
-
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.2.2.e.png)
 
+<p align="justify">
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows you to play videos, pause at specific frames, extract subtitles or any text in the video, edit them, and export them in .TXT or .SRT (standard subtitles) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. Works with light/dark themes and interface in 20 languages: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
+</p>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
+
+<p align="justify">
+</p>
 
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking.
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable includes all necessary dependencies.
-- 
+
+  
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
 
 # User Interface 
@@ -64,18 +68,30 @@ Scanframe project file:
 - Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
 - The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
-Thank you for using Scanframe! If you find it useful, consider donating.💰
-https://ko-fi.com/eberload
+<div align="center">
+  <p><strong>Thank you for using Spectro Denoise!</strong></p>
+ <p><strong>If you find it useful, consider donating.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.1.png)
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
-
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.2.2.s.png)
 
+<p align="justify">
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando OCR (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz con 20 idiomas: Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+    Descarga la versión más reciente aquí.
+  </a>
+</p>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
 
@@ -134,8 +150,15 @@ Archivo de proyecto Scanframe:
 - Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 - El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
     
-¡Gracias por usar Scanframe! Si te es útil, considera donar.💰
- https://ko-fi.com/eberload
+<div align="center">
+  <p><strong>¡Gracias por usar Spectro Denoise!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+</div>
 
- - INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文
-  - Application compatible with: Windows x64; Linux x64
+<div align="justify">
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+<p>Application compatible with: Windows x64; Linux x64</p>
+</div>
