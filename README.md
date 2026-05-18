@@ -8,14 +8,17 @@ Scanframe is a desktop application designed to extract text from videos using OC
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
 
-<p align="justify">
-</p>
-
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking.
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
 - The executable includes all necessary dependencies.
+
+<p align="center">
+  <a href="https://github.com/Eberload/Scanframe/releases">
+    Download the latest version here.
+  </a>
+</p>
 
   
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
@@ -69,7 +72,7 @@ Scanframe project file:
 - The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
 
 <div align="center">
-  <p><strong>Thank you for using Spectro Denoise!</strong></p>
+  <p><strong>Thank you for using Scanframe!</strong></p>
  <p><strong>If you find it useful, consider donating.💰</strong></p>
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
@@ -88,7 +91,7 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 
 
 <p align="center">
-  <a href="https://github.com/Eberload/SpectroDenoise/releases">
+  <a href="https://github.com/Eberload/Scanframe/releases">
     Descarga la versión más reciente aquí.
   </a>
 </p>
@@ -151,7 +154,7 @@ Archivo de proyecto Scanframe:
 - El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
     
 <div align="center">
-  <p><strong>¡Gracias por usar Spectro Denoise!</strong></p>
+  <p><strong>¡Gracias por usar Scanframe!</strong></p>
   </p><strong>Si te es útil, considera donar.💰</strong></p>
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
