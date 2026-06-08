@@ -111,9 +111,7 @@ La interfaz se divide en dos paneles principales:
 Panel izquierdo: Reproductor de video.
 - Área de video.
 - Controles inferiores: Barra de progreso, botones de avance, volumen y pantalla completa.
-
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
-    
+  
 Panel derecho: Módulo OCR y edición.
 - Botones de reconocimiento OCR y cancelar.
 - Barra de progreso para OCR/exportación.
