@@ -1,12 +1,12 @@
 # Scanframe - Extract text from videos using OCR
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.2.2.e.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.2.3.png)
 
 <p align="justify">
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows you to play videos, pause at specific frames, extract subtitles or any text in the video, edit them, and export them in .TXT or .SRT (standard subtitles) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. Works with light/dark themes and interface in 20 languages: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese.
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.3.png)
 
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
@@ -21,7 +21,7 @@ Scanframe is a desktop application designed to extract text from videos using OC
 </p>
 
   
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.2.3.png)
 
 # User Interface 
 
@@ -31,15 +31,11 @@ Left panel: Video player.
 - Video area.
 - Bottom controls: Progress bar, forward buttons, volume, and full screen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.2.png)
-    
 Right panel: OCR and editing module.
 - OCR recognition and cancel buttons.
 - Progress bar for OCR/export.
 - List of extracted text blocks.
 - Export buttons.
-
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
 
 # Video Player Controls
 - 📁 Open: Select a video file (MP4, MKV, AVI, MOV).
@@ -49,7 +45,7 @@ Right panel: OCR and editing module.
 - 🔊 Volume: Toggles mute (M). Slider adjusts level (0-100%).
 - ⛶ Full Screen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.3.png)
 
 
 # OCR Module: Text Extraction
@@ -60,7 +56,7 @@ Right panel: OCR and editing module.
 - If there is no text: Error message (“No text detected in the image”).
 - Cancel: “❌ Cancel Extraction” (confirmed with dialog).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.3.png)
 
 Scanframe project file:
 - File → Save Project (Ctrl+S)
@@ -83,7 +79,7 @@ Scanframe project file:
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.2.2.s.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.3.png)
 
 <p align="justify">
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando OCR (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz con 20 idiomas: Indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado.
@@ -96,7 +92,7 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
   </a>
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.2.3.png)
 
 # Ejecución
 - Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
@@ -104,7 +100,7 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 - Si usas antivirus, asegúrate de que permita la ejecución (falsos positivos comunes en .exe).
 - El ejecutable incluye todas las dependencias necesarias.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.2.3.png)
 
 # Interfaz de usuario
 
@@ -122,8 +118,6 @@ Panel derecho: Módulo OCR y edición.
 - Lista de bloques de texto extraídos.
 - Botones de exportación. 
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.2.png)
-
 # Controles del reproductor de video
 - 📁 Abrir: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
 - Reproducir/Pausar: Inicia o detiene la reproducción.
@@ -132,7 +126,7 @@ Panel derecho: Módulo OCR y edición.
 - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
 - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.3.png)
 
 # Módulo OCR: Extracción de texto
 - Reproduce y pausa (Espacio) en el frame deseado. 
@@ -142,7 +136,7 @@ Panel derecho: Módulo OCR y edición.
 - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
 - Cancelar: "❌ Cancelar Extracción" (se confirma con diálogo).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.2.2.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/8.1.2.3.png)
 
 Archivo de proyecto Scanframe:
  - Archivo → Guardar proyecto (Ctrl+S)
@@ -164,4 +158,10 @@ Archivo de proyecto Scanframe:
 <div align="justify">
  <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
 <p>Application compatible with: Windows x64; Linux x64</p>
+</div>
+
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/L.1.2.3.png)
+
+<div align="center">
+<p>Scanframe in Linux x64</p>
 </div>
