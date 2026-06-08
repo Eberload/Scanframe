@@ -15,9 +15,9 @@ Scanframe is a desktop application designed to extract text from videos using OC
 - The executable includes all necessary dependencies.
 
 <p align="center">
-  <a href="https://github.com/Eberload/Scanframe/releases">
+  <i><a href="https://github.com/Eberload/Scanframe/releases">
     Download the latest version here.
-  </a>
+  </a></i>
 </p>
 
   
@@ -73,6 +73,8 @@ Scanframe project file:
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
   </a>
+  <p></p>
+  <p></p>
 </div>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.1.png)
@@ -87,9 +89,9 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 
 
 <p align="center">
-  <a href="https://github.com/Eberload/Scanframe/releases">
+  <i><a href="https://github.com/Eberload/Scanframe/releases">
     Descarga la versión más reciente aquí.
-  </a>
+  </a></i>
 </p>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.2.3.png)
@@ -153,15 +155,17 @@ Archivo de proyecto Scanframe:
   <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
   </a>
+  <p></p>
+<p></p>
 </div>
 
 <div align="justify">
  <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
-<p>Application compatible with: Windows x64; Linux x64</p>
+<i><p>Application compatible with: Windows x64; Linux x64</p></i>
 </div>
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/L.1.2.3.png)
 
 <div align="center">
-<p>Scanframe in Linux x64</p>
+<p><i>Scanframe AppImage running on Linux.</i></p>
 </div>
