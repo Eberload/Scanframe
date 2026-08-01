@@ -61,11 +61,13 @@ Right panel: OCR and editing module.
 Scanframe project file:
 - File → Save Project (Ctrl+S)
 - File → Open Project (Ctrl+O)
-- Format: .sfpf file
+- Format: File with .sfpf extension
+- The project file saves all blocks, times, video path and playback position at the time of saving and opens it at exactly the same point. 
 
 # IMPORTANT
-- Pause on frames with clear text to improve OCR accuracy and edit manually if there are errors.
-- The start point is set automatically, but the end point is set manually. Let the video advance and click “Set End.”
+- Pause on frames with clear text to improve OCR accuracy and manually edit if there are errors.
+- The starting point is set automatically, but the ending point is set manually; let the video play and click on "Set End".
+- If the OCR does not detect text, you can manually add a block of text using the respective button.
 
 <div align="center">
   <p><strong>Thank you for using Scanframe!</strong></p>
@@ -141,11 +143,13 @@ Panel derecho: Módulo OCR y edición.
 Archivo de proyecto Scanframe:
  - Archivo → Guardar proyecto (Ctrl+S)
  - Archivo → Abrir proyecto (Ctrl+O)
- - Formato: Archivo .sfpf
+ - Formato: Archivo con extensión .sfpf
+ - El archivo de proyecto guarda todos los bloques, tiempos, ruta del video y la posición de la reproducción al momento de guardarlo y lo abre exactamente en el mismo punto. 
     
    # IMPORTANTE
 - Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
-- El punto de inicio se configura automáticamente, pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
+- El punto de inicio se configura automáticamente, pero el punto final se establece manualmente, deja avanzar el video y haz clic en "Establecer fin".
+- Si el OCR no detecta texto puede agregar un bloque de texto manualmente con el respectivo botón. 
     
 <div align="center">
   <p><strong>¡Gracias por usar Scanframe!</strong></p>
