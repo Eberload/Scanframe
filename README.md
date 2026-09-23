@@ -12,7 +12,7 @@ Scanframe is a desktop application designed to extract text from videos using OC
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
 - No installation required: simply run the “.exe” file by double-clicking.
 - If you use antivirus software, make sure it allows the file to run (false positives are common with .exe files).
-- The executable includes all necessary dependencies.
+- The folder includes all necessary dependencies.
 
 <p align="center">
   <i><a href="https://github.com/Eberload/Scanframe/releases">
@@ -65,6 +65,7 @@ Scanframe project file:
 - The project file saves all blocks, times, video path and playback position at the time of saving and opens it at exactly the same point. 
 
 # IMPORTANT
+- Select the language of the text in the video to improve results via Options/OCR Model. 
 - Pause on frames with clear text to improve OCR accuracy and manually edit if there are errors.
 - The starting point is set automatically, but the ending point is set manually; let the video play and click on "Set End".
 - If the OCR does not detect text, you can manually add a block of text using the respective button.
@@ -99,10 +100,10 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.2.3.png)
 
 # Ejecución
-- Descarga el archivo ejecutable "Scanframe.exe" desde el enlace proporcionado por el desarrollador.
-- No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
-- Si usas antivirus, asegúrate de que permita la ejecución (los falsos positivos son comunes en .exe).
-- El ejecutable incluye todas las dependencias necesarias.
+- Descargue el archivo ejecutable «Scanframe.exe» desde el enlace proporcionado por el desarrollador.
+- No requiere instalación: simplemente ejecute el archivo «.exe» haciendo doble clic.
+- Si usa antivirus, asegúrese de que permita la ejecución (los falsos positivos son comunes en .exe).
+- La carpeta incluye todas las dependencias necesarias.
 
 ![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/2.1.2.3.png)
 
@@ -147,6 +148,7 @@ Archivo de proyecto Scanframe:
  - El archivo de proyecto guarda todos los bloques, tiempos, ruta del video y la posición de la reproducción al momento de guardarlo y lo abre exactamente en el mismo punto. 
     
    # IMPORTANTE
+- Seleccione el idioma en el que se encuentra el texto en el video para mejorar los resultados mediante Opciones/Modelo ROC.
 - Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 - El punto de inicio se configura automáticamente, pero el punto final se establece manualmente, deja avanzar el video y haz clic en "Establecer fin".
 - Si el OCR no detecta texto puede agregar un bloque de texto manualmente con el respectivo botón. 
