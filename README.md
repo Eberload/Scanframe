@@ -1,12 +1,12 @@
 # Scanframe - Extract text from videos using OCR
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.3.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.3.8.png)
 
 <p align="justify">
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows users to play videos, pause at specific frames, extract subtitles or any other text displayed in the video, edit the extracted content, and export it in .TXT or .SRT (standard subtitle) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. Works with light/dark themes and interface in 20 languages: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese, Nederlands, Svenska, Norsk, Dansk, Suomi, Polski.
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.3.8.png)
 
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
@@ -84,7 +84,7 @@ Scanframe project file:
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.3.1.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.3.8.png)
 
 <p align="justify">
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando ROC (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz con 20 idiomas: indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado, neerlandés, sueco, noruego, danés, finlandés, polaco.
@@ -97,7 +97,7 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
   </a></i>
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.3.8.png)
 
 # Ejecución
 - Descargue el archivo ejecutable «Scanframe.exe» desde el enlace proporcionado por el desarrollador.
