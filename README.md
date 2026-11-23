@@ -1,12 +1,12 @@
 # Scanframe - Extract text from videos using OCR
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.3.8.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/1.1.4.4.png)
 
 <p align="justify">
 Scanframe is a desktop application designed to extract text from videos using OCR (Optical Character Recognition). It allows users to play videos, pause at specific frames, extract subtitles or any other text displayed in the video, edit the extracted content, and export it in .TXT or .SRT (standard subtitle) formats. The application supports videos in MP4, MKV, AVI, and MOV formats. Works with light/dark themes and interface in 20 languages: Indonesian, German, English, Spanish, French, Italian, Swahili, Portuguese, Vietnamese, Turkish, Russian, Ukrainian, Urdu, Arabic, Hindi, Bengali, Thai, Korean, Japanese, Simplified Chinese, Nederlands, Svenska, Norsk, Dansk, Suomi, Polski.
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.3.8.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/5.1.4.4.png)
 
 # Execution
 - Download the executable file “Scanframe.exe” from the link provided by the developer.
@@ -45,7 +45,7 @@ Right panel: OCR and editing module.
 - 🔊 Volume: Toggles mute (M). Slider adjusts level (0-100%).
 - ⛶ Full Screen: Toggles fullscreen mode.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/3.1.4.4.png)
 
 
 # OCR Module: Text Extraction
@@ -56,7 +56,7 @@ Right panel: OCR and editing module.
 - If there is no text: Error message (“No text detected in the image”).
 - Cancel: “❌ Cancel Extraction” (confirmed with dialog).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/4.1.4.4.png)
 
 Scanframe project file:
 - File → Save Project (Ctrl+S)
@@ -84,7 +84,7 @@ Scanframe project file:
 
 # Scanframe - Extrae texto de videos mediante OCR.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.3.8.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/6.1.4.4.png)
 
 <p align="justify">
 Scanframe es una aplicación de escritorio diseñada para extraer texto de videos utilizando ROC (Reconocimiento Óptico de Caracteres). Permite reproducir videos, pausar en frames específicos, extraer subtítulos o cualquier texto en el video, editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar). La aplicación soporta videos en formatos MP4, MKV, AVI y MOV. Funciona con temas claro/oscuro e interfaz con 20 idiomas: indonesio, alemán, inglés, español, francés, italiano, suajili, portugués, vietnamita, turco, ruso, ucraniano, urdu, árabe, hindi, bengalí, tailandés, coreano, japonés, chino simplificado, neerlandés, sueco, noruego, danés, finlandés, polaco.
@@ -97,7 +97,7 @@ Scanframe es una aplicación de escritorio diseñada para extraer texto de video
   </a></i>
 </p>
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.3.8.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/9.1.4.4.png)
 
 # Ejecución
 - Descargue el archivo ejecutable «Scanframe.exe» desde el enlace proporcionado por el desarrollador.
@@ -129,7 +129,7 @@ Panel derecho: Módulo OCR y edición.
 - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
 - ⛶ Pantalla Completa: Alterna modo fullscreen.
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/7.1.4.4.png)
 
 # Módulo OCR: Extracción de texto
 - Reproduce y pausa (Espacio) en el frame deseado. 
@@ -139,7 +139,7 @@ Panel derecho: Módulo OCR y edición.
 - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
 - Cancelar: "❌ Cancelar Extracción" (se confirma con diálogo).
 
-![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/8.1.2.3.png)
+![alt text](https://github.com/Eberload/Scanframe/blob/main/Screenshots/8.1.4.4.png)
 
 Archivo de proyecto Scanframe:
  - Archivo → Guardar proyecto (Ctrl+S)
